@@ -1,4 +1,4 @@
-## Hi there 👋
+## はじめまして！ソフトウェアと電子機器の開発に興味があります 👋
 
 <!--
 **furutanorito/furutanorito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
